@@ -1,0 +1,153 @@
+[{
+    "name": "The Boys",
+    "imdb": 9.3,
+    "date": "2022",
+    "sposter": "img/the boys.jpg",
+    "bposter": "img/the boys1.jpg",
+    "genre": "Action",
+    "type": "series"
+}, {
+    "name": "Money Heist",
+    "imdb": 9.9,
+    "date": "2020",
+    "sposter": "img/money heist.jpg",
+    "bposter": "img/money heist1.jpg",
+    "genre": "Action",
+    "type": "series"
+}, {
+    "name": "John Wick",
+    "imdb": 9.8,
+    "date": "2022",
+    "sposter": "img/Jhon Wick.jpg",
+    "bposter": "img/jhon wick1.webp",
+    "genre": "Action",
+    "type": "movie"
+}, {
+    "name": "Ant Man",
+    "imdb": 8.9,
+    "date": "2017",
+    "sposter": "img/ant man.jpg",
+    "bposter": "img/ant man1.jpg",
+    "genre": "Action",
+    "type": "movie"
+}, {
+    "name": "Avengers",
+    "imdb": 9.9,
+    "date": "2012",
+    "sposter": "img/avengers.jpg",
+    "bposter": "img/avengers1.jpg",
+    "genre": "Action",
+    "type": "movie"
+}, {
+    "name": "Moon Knight",
+    "imdb": 7.3,
+    "date": "2022",
+    "sposter": "img/moon knight.jpg",
+    "bposter": "img/moon knight1.webp",
+    "genre": "Action",
+    "type": "series"
+}, {
+    "name": "Luck",
+    "imdb": 7.2,
+    "date": "2022",
+    "sposter": "img/luck.jpg",
+    "bposter": "img/luck 1.jpg",
+    "genre": "Family",
+    "type": "kids"
+},{
+    "name": "Kota Factory",
+    "imdb": 9.6,
+    "date": "2020",
+    "sposter": "img/kota factory.jpg",
+    "bposter": "img/kota factory1.webp",
+    "genre": "Action",
+    "type": "series"
+}, {
+    "name": "Puss in Boots: The Last Wish",
+    "imdb": 8.2,
+    "date": "2022",
+    "sposter": "img/puss.jpg",
+    "bposter": "img/puss 1.png",
+    "genre": "Family",
+    "type": "kids"
+}, {
+    "name": "The Ice Age Adventures of Buck Wild",
+    "imdb": 9.2,
+    "date": "2022",
+    "sposter": "img/ice.jpg",
+    "bposter": "img/ice 1.jpg",
+    "genre": "Family",
+    "type": "kids"
+},{
+    "name": "Collage Romance",
+    "imdb": 7.9,
+    "date": "2021",
+    "sposter": "img/collage romance.jpg",
+    "bposter": "img/collage romance1.jpg",
+    "genre": "Action",
+    "type": "series"
+}, {
+    "name": "Thor Love Of Thunder",
+    "imdb": 8.8,
+    "date": "2022",
+    "sposter": "img/thor love of thunder.jpg",
+    "bposter": "img/thor love of thunder1.avif",
+    "genre": "Action",
+    "type": "movie"
+}, {
+    "name": "Uncharted",
+    "imdb": 9.8,
+    "date": "2022",
+    "sposter": "img/uncharted.webp",
+    "bposter": "img/uncharted1.jpg",
+    "genre": "Action",
+    "type": "movie"
+}, {
+    "name": "The Croods: A New Age",
+    "imdb": 7.9,
+    "date": "2020",
+    "sposter": "img/croods.jpg",
+    "bposter": "img/croods 1.jpg",
+    "genre": "Family",
+    "type": "kids"
+},{
+    "name": "Eesho",
+    "imdb": 8.2,
+    "date": "2022",
+    "sposter": "img/eesho.jpeg",
+    "bposter": "img/eesho1.jpg",
+    "genre": "Action",
+    "type": "movie"
+}, {
+    "name": "Top Gun",
+    "imdb": 8.0,
+    "date": "2022",
+    "sposter": "img/topgun.jpg",
+    "bposter": "img/topgun1.jpg",
+    "genre": "Action",
+    "type": "movie"
+}, {
+    "name": "Jurassic World",
+    "imdb": 8.0,
+    "date": "2022",
+    "sposter": "img/jurassic world.jpg",
+    "bposter": "img/jurassic world1.jpg",
+    "genre": "Action",
+    "type": "movie"
+}, {
+    "name": "Eternals",
+    "imdb": 9.0,
+    "date": "2022",
+    "sposter": "img/eternals.jpg",
+    "bposter": "img/eternals1.webp",
+    "genre": "Action",
+    "type": "movie"
+}, {
+    "name": "Spider Man",
+    "imdb": 9.9,
+    "date": "2020",
+    "sposter": "img/spiderman.jpg",
+    "bposter": "img/spiderman1.jpg",
+    "genre": "Action",
+    "type": "movie"
+}]
